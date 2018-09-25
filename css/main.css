@@ -35,11 +35,18 @@ h1 {
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
 }
 
 .banner-content {
-
+  background-image: url("../images/two-leaves.svg");
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 80px;
+  padding-top: 20em;
+  max-width: 1050px;
+  color: #fff;
 }
 
 @media only screen and (min-width: 60em) {
