@@ -35,15 +35,16 @@ h1 {
 }
 
 .banner {
-  background-image: url("../images/banner.jpg");
   background-size: cover;
+  background: linear-gradient(to top, rgba(16, 52, 41, .8), transparent) no-repeat center bottom,
+  url("../images/banner.jpg") no-repeat center top / cover;
 }
 
 .banner-content {
   background-image: url("../images/two-leaves.svg");
   background-position: left center;
   background-repeat: no-repeat;
-  background-size: 85px;
+  background-size: 5em;
   padding-top: 20em;
   max-width: 1050px;
   color: #fff;
