@@ -2,9 +2,16 @@ html {
   font-family: Lora, serif;
 }
 
+h1 {
+  color: #fff;
+}
+
 .masthead {
   border-top: solid 3px #467366;
   border-bottom: solid 3px #467366;
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
+  background-color: #588477;
 }
 
 .logo {
@@ -19,7 +26,7 @@ html {
   text-decoration: none;
   border: solid 3px #145b1d;
   border-radius: 8px;
-  background-color: #588477;
+  background-color: #467366;
   color: #fff;
 }
 
