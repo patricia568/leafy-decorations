@@ -3,7 +3,8 @@ html {
 }
 
 .masthead {
-
+  border-top: solid 3px #467366;
+  border-bottom: solid 3px #467366;
 }
 
 .logo {
@@ -16,6 +17,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  border: solid 3px #467366;
+  border-radius: 8px;
+  background-color: #588477;
+  color: #fff;
 }
 
 .nav a:hover {
