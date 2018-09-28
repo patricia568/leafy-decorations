@@ -31,7 +31,7 @@ h1 {
 }
 
 .nav a:hover {
-
+  background-image: url("../image/leaf-icon.svg");
 }
 
 .banner {
