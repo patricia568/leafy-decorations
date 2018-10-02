@@ -41,10 +41,10 @@ h1 {
 
 .banner-content {
   background-image: url("../images/two-leaves.svg");
-  background-position: left center;
+  background-position: 10px 190px;
   background-repeat: no-repeat;
-  background-size: 5em;
-  padding-top: 20em;
+  background-size: 100px;
+  padding-top: 19em;
   max-width: 1050px;
   color: #fff;
 }
