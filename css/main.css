@@ -40,8 +40,9 @@ h1 {
 }
 
 .banner {
-  background: linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0)) no-repeat center bottom / 100% 50%,
-  url("../images/banner.jpg") no-repeat center bottom / cover;
+  background:
+    linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0)) no-repeat center bottom / 100% 50%,
+    url("../images/banner.jpg") no-repeat center bottom / cover;
 }
 
 .banner-content {
