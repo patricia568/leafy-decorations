@@ -31,11 +31,11 @@ h1 {
 }
 
 .nav a:hover {
-  background-image: url("../image/leaf-icon.svg");
+  background-color: rgba(16, 52, 41, 0);
 }
 
 .banner {
-  background: linear-gradient(to top, rgba(16, 52, 41, .8), transparent) no-repeat center bottom,
+  background: linear-gradient(to top, rgba(16, 52, 41, .8), transparent) no-repeat center bottom / 100% 50%,
   url("../images/banner.jpg") no-repeat center top / cover;
 }
 
